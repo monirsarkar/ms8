@@ -1,4 +1,11 @@
 <p align="center">
+<a href="https://github.com/monirsarkar"><img title="monirsarkar" src="https://github-readme-stats.vercel.app/api?username=monirsarkar&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
+
+
+
+
+<p align="center">
 <a href="#"><img title="succeed" src="https://img.shields.io/badge/deobfuscating-succeed-green?colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <br/><br/>
@@ -8,7 +15,7 @@
 
 ## ***About MS8 V1***:
 
-MS8 is a python based cloning script. You can clone unlimited indian facebook accounts by using this tool. This tool works on any Android devices without root.
+MS8 is a python based cloning script. You can clone unlimite facebook accounts by using this tool. This tool works on any Android devices without root.
 
 ## Install on Termux :
 ```
